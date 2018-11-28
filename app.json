@@ -1,0 +1,7 @@
+{
+  "name": "MOPDemo",
+  "displayName": "MOP Demo App",
+  "version": "1.0",
+  "env": "dev",
+  "server_url": "https://www.last.fm"
+}
